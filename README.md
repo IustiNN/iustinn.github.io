@@ -1,3 +1,3 @@
 http://iustinn.github.io
 =================
-## My personal resume.
+## My personal résumé.
