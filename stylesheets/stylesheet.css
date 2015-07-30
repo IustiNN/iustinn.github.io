@@ -329,7 +329,16 @@ ul {
   list-style: disc inside;
   padding-left: 20px;
 }
-
+.portfolio-list {
+  padding: 15px;
+}
+.portfolio-list li {
+  margin-bottom: 15px;
+  list-style-type: circle;
+}
+.portfolio-list p {
+  margin: 0;
+}
 ol {
   list-style: decimal inside;
   padding-left: 3px;
